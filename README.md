@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Maxime Pagnoulle 👋
 
-<!--
-**mpagnoulle/mpagnoulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Full-Stack Engineer**. 
+- 👀 I’m interested in **Python**, **JavaScript**, **React**, **AWS** and **Flutter** Development.
+- ✌🏻 V for versatility, adept at learning and exploring new **domains**.
+- 📫 How to **reach me**, Email: **me@mxpg.eu**
+<!-- - 🌱 I’m currently learning **SwiftUI** -->
 
-Here are some ideas to get you started:
+## 🛠 Skills
+#### Languages Known
+Python, JavaScript, PHP, C# .NET, C/C++
+#### Frontend
+React, Redux, Tailwind CSS, Bootstrap, Next.js, Material-UI, jQuery
+#### Backend, Database And Cloud
+Flask, MongoDB, MySQL, AWS, Docker, Vercel
+#### Mobile
+Fluter, iOS (Obj-C), Android (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[➜ MXPG.EU (Personal Website)](https://mxpg.eu)
