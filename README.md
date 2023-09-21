@@ -15,7 +15,7 @@ React, Redux, Tailwind CSS, Bootstrap, Next.js, Material-UI, jQuery
 #### Backend, Database And Cloud
 Flask, MongoDB, MySQL, AWS, Docker, Vercel
 #### Mobile
-Fluter, iOS (Obj-C), Android (Java)
+Flutter, iOS (Obj-C), Android (Java)
 
 ## 🔗 Links
 [➜ MXPG.EU (Personal Website)](https://mxpg.eu)
